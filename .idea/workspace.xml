@@ -1,54 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d2d30f4-bb72-4839-b2a1-3ac61795cb83" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/2020-03/heeexy-2020-03-07.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/2020-03/heeexy-2020-03-07.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/MyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/MyApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/config/exception/CommonJsonException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/config/exception/CommonJsonException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/config/exception/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/config/exception/GlobalExceptionHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/config/exception/MainsiteErrorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/config/exception/MainsiteErrorController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/config/shiro/AjaxPermissionsAuthorizationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/config/shiro/AjaxPermissionsAuthorizationFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/config/shiro/ShiroConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/config/shiro/ShiroConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/config/shiro/UserRealm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/config/shiro/UserRealm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/config/system/DefaultView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/config/system/DefaultView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/controller/ArticleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/controller/ArticleController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/controller/ClassController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/controller/ClassController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/controller/LeaveController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/controller/LeaveController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/controller/LoginController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/controller/StudentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/controller/WorkloadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/controller/WorkloadController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/dao/ArticleDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/dao/ArticleDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/dao/ClassDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/dao/ClassDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/dao/LeaveDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/dao/LeaveDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/dao/LoginDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/dao/LoginDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/dao/PermissionDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/dao/PermissionDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/dao/StudentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/dao/StudentDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/dao/UserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/dao/WorkloadDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/dao/WorkloadDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/ArticleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/ArticleService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/ClassService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/ClassService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/LeaveService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/LeaveService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/LoginService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/LoginService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/PermissionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/PermissionService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/StudentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/WorkloadService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/WorkloadService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/impl/ArticleServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/impl/ArticleServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/impl/ClassServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/impl/ClassServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/impl/LeaveServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/impl/LeaveServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/impl/LoginServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/impl/LoginServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/impl/PermissionServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/impl/PermissionServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/impl/StudentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/impl/StudentServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/impl/WorkloadServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/impl/WorkloadServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/util/CommonUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/util/CommonUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/util/StringTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/util/StringTools.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/util/constants/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/util/constants/Constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/util/constants/ErrorEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/util/constants/ErrorEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/util/model/One2Many.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/util/model/One2Many.java" afterDir="false" />
-    </list>
+    <list default="true" id="9d2d30f4-bb72-4839-b2a1-3ac61795cb83" name="Default" comment="Update notes" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -253,11 +206,30 @@
       <workItem from="1583320258470" duration="10911000" />
       <workItem from="1583461975572" duration="476000" />
       <workItem from="1583462463154" duration="1402000" />
-      <workItem from="1583468472484" duration="2546000" />
+      <workItem from="1583468472484" duration="2820000" />
     </task>
+    <task id="LOCAL-00001" summary="Update notes">
+      <created>1583562781939</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583562781939</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update notes">
+      <created>1583562951902</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583562951902</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update notes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update notes" />
   </component>
 </project>
