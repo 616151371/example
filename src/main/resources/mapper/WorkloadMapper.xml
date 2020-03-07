@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.heeexy.example.dao.WorkloadDao">
+
+    <insert id="addWorkload" parameterType="com.alibaba.fastjson.JSONObject">
+        INSERT INTO workload
+            (type,hours,content)
+        VALUES
+            (#{type},#{hours},#{content})
+    </insert>
+
+    <select id="countWorkload" resultType="Integer">
+        SELECT count(0)
+        FROM workload w
+        WHERE w.delete_status = '1'
+    </select>
+
+    <select id="listWorkload" resultType="com.alibaba.fastjson.JSONObject">
+        SELECT
+            w.id                                      id,
+              w.type                                 type,
+                w.hours                                 hours,
+            w.content                                 content,
+            date_format(w.create_time, '%Y.%m.%d %T') createTime
+        FROM workload w
+        WHERE w.delete_status = '1'
+        ORDER BY w.id DESC
+        LIMIT #{offSet}, #{pageRow}
+    </select>
+
+    <update id="updateWorkload" parameterType="com.alibaba.fastjson.JSONObject">
+        UPDATE workload
+        SET
+            type = #{type},
+            hours = #{hours},
+            content = #{content}
+        WHERE id = #{id}
+    </update>
+
+    <update id="deleteWorkload" parameterType="com.alibaba.fastjson.JSONObject">
+        DELETE
+        FROM `workload`
+        WHERE id = #{id}
+    </update>
+</mapper>

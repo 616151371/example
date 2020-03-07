@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.heeexy.example.dao.ClassDao">
+
+    <insert id="addClass" parameterType="com.heeexy.example.entity.Class">
+        INSERT INTO class
+           (type,grade,subject,content,create_by)
+        VALUES
+            (#{type},#{grade},#{subject},#{content},#{createBy})
+    </insert>
+
+    <select id="countClass" resultType="Integer">
+        SELECT count(0)
+        FROM class w
+        WHERE w.delete_status = '1'
+    </select>
+
+    <select id="listClass" resultType="com.alibaba.fastjson.JSONObject">
+         SELECT w.id                                      id,
+              w.type                                 type,
+               w.grade                                 grade,
+                w.subject                                 subject,
+            w.content                                 content,
+              s.nickname                                createBy,
+            date_format(w.create_time, '%Y.%m.%d %T') createTime
+        FROM class w
+          inner join sys_user s on w.create_by =s.id
+        WHERE w.delete_status = '1'
+        ORDER BY w.id DESC
+        LIMIT #{offSet}, #{pageRow}
+    </select>
+
+    <update id="updateClass" parameterType="com.alibaba.fastjson.JSONObject">
+        UPDATE class
+        SET
+            content = #{content}
+        WHERE id = #{id}
+    </update>
+
+    <update id="deleteClass" parameterType="com.alibaba.fastjson.JSONObject">
+        DELETE
+        FROM `class`
+        WHERE id = #{id}
+    </update>
+</mapper>

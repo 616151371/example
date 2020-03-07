@@ -1,0 +1,9 @@
+spring:
+  datasource:
+      url: jdbc:mysql://localhost:3302/example?useUnicode=true&characterEncoding=UTF-8&allowMultiQueries=true&serverTimezone=UTC
+      username: root
+      password: 1234
+      hikari:
+        driver-class-name: com.mysql.cj.jdbc.Driver
+mybatis:
+   mapperLocations: classpath:/mapper/*.xml
