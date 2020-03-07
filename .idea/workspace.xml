@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d2d30f4-bb72-4839-b2a1-3ac61795cb83" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-03/heeexy-2020-03-07.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/2020-03/heeexy-2020-03-07.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/MyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/MyApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/config/exception/CommonJsonException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/config/exception/CommonJsonException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/config/exception/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/config/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/config/exception/MainsiteErrorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/config/exception/MainsiteErrorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/config/shiro/AjaxPermissionsAuthorizationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/config/shiro/AjaxPermissionsAuthorizationFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/config/shiro/ShiroConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/config/shiro/ShiroConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/config/shiro/UserRealm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/config/shiro/UserRealm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/config/system/DefaultView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/config/system/DefaultView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/controller/ArticleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/controller/ArticleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/controller/ClassController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/controller/ClassController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/controller/LeaveController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/controller/LeaveController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/controller/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/controller/WorkloadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/controller/WorkloadController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/dao/ArticleDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/dao/ArticleDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/dao/ClassDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/dao/ClassDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/dao/LeaveDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/dao/LeaveDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/dao/LoginDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/dao/LoginDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/dao/PermissionDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/dao/PermissionDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/dao/StudentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/dao/StudentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/dao/WorkloadDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/dao/WorkloadDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/ArticleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/ArticleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/ClassService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/ClassService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/LeaveService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/LeaveService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/LoginService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/LoginService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/PermissionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/PermissionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/StudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/WorkloadService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/WorkloadService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/impl/ArticleServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/impl/ArticleServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/impl/ClassServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/impl/ClassServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/impl/LeaveServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/impl/LeaveServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/impl/LoginServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/impl/LoginServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/impl/PermissionServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/impl/PermissionServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/impl/StudentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/impl/StudentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/impl/WorkloadServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/service/impl/WorkloadServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/util/CommonUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/util/CommonUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/util/StringTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/util/StringTools.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/util/constants/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/util/constants/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/util/constants/ErrorEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/util/constants/ErrorEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/util/model/One2Many.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/util/model/One2Many.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>system</find>
+      <find>Leave</find>
+      <find>文章</find>
+      <find>Levae</find>
+      <find>Article</find>
+      <find>countClass</find>
+      <find>Class</find>
+      <find>Studen</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Leave</replace>
+      <replace>workload</replace>
+      <replace>Workload</replace>
+      <replace>class</replace>
+      <replace>Class</replace>
+      <replace>Studen</replace>
+      <replace>Student</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\86188\Desktop\back" />
+        <option value="C:\Users\86188\Desktop\back\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/maven/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="C:\java-soft\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YjhaExG1uXHpLff6JCk4UpxkSE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vue" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.heeexy.example.entity" />
+      <recent name="com.heeexy.example.service.impl" />
+      <recent name="com.heeexy.example.service" />
+      <recent name="com.heeexy.example.dao" />
+      <recent name="com.heeexy.example.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\其他相关进程\SpringBoot-Shiro-Vue\back\src\main\resources\mapper" />
+      <recent name="D:\其他相关进程\SpringBoot-Shiro-Vue\back\src\main\java\com\heeexy\example\util\system" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MyApplication">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataCopy" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.heeexy.example.util.system.DataCopy" />
+      <module name="example" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heeexy.example.util.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecoverController" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.heeexy.example.controller.RecoverController" />
+      <module name="example" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heeexy.example.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="example" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.heeexy.example.MyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.RecoverController" />
+      <item itemvalue="Application.DataCopy" />
+      <item itemvalue="Spring Boot.MyApplication" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d2d30f4-bb72-4839-b2a1-3ac61795cb83" name="Default" comment="" />
+      <created>1583136468479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583136468479</updated>
+      <workItem from="1583136471719" duration="2336000" />
+      <workItem from="1583151945690" duration="2342000" />
+      <workItem from="1583223163239" duration="14584000" />
+      <workItem from="1583246783607" duration="1450000" />
+      <workItem from="1583288783666" duration="150000" />
+      <workItem from="1583320258470" duration="10911000" />
+      <workItem from="1583461975572" duration="476000" />
+      <workItem from="1583462463154" duration="1402000" />
+      <workItem from="1583468472484" duration="2546000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
