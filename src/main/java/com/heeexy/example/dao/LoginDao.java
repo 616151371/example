@@ -4,7 +4,7 @@ import com.alibaba.fastjson.JSONObject;
 import org.apache.ibatis.annotations.Param;
 
 /**
- * @author: hxy
+ * @author: Su
  * @description: 登录相关dao
  * @date: 2017/10/24 11:02
  */

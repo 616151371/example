@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * @author: hxy
+ * @author: Su
  * @description: 统一异常拦截
  * @date: 2017/10/24 10:31
  */

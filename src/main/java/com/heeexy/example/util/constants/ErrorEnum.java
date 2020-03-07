@@ -1,7 +1,7 @@
 package com.heeexy.example.util.constants;
 
 /**
- * @author: hxy
+ * @author: Su
  * @date: 2017/10/24 10:16
  */
 public enum ErrorEnum {
